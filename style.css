@@ -1,0 +1,34 @@
+﻿body {
+    background-color: darksalmon;
+    color: aquamarine;
+}
+
+h1 {
+    text-align: center;
+    color: indianred;
+    text-decoration: underline;
+    font-family: monospace;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+figcaption {
+    color: cyan;
+    font-family: verdana;
+    font-size: 2px;
+}
+
+p {
+    font-family: cursive;
+    font-size: 15px;
+}
+#BIG{
+    color: crimson;
+    font-size: 18px;
+}
